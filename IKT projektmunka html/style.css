@@ -10,3 +10,9 @@ main img{
     height: 400px;
     
 }
+h2{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
