@@ -1,9 +1,23 @@
-img{
-    width: 650px;
-    height: 300px;
+header{
+    margin: 0px;
+    
 }
-.bp{
+img{
+    width: 700px;
+    height: 300px;
+   
+   
+}
+bp{
     color: greenyellow;
     text-align: center;
     position: relative;
+}
+main{
+    background-color: green;
+    margin: 0px;
+
+}
+.navbar{
+    text-align: center;
 }
