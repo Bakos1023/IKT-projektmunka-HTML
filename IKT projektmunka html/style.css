@@ -5,13 +5,17 @@ header img{
     background-size: cover;
       
 }
+.navbar{
+    background-color: rgba(245,222,179, 0.5);
+    transform: translateX(center);
+}
 body{
     margin-left: 20px;
     margin-right: 20px;
     background-color:  rgba(245,222,179, 0.5);
 }
 main img{
-    height: 400px;
+    height: 300px;
     
 }
 h2{
@@ -20,4 +24,10 @@ h2{
 p{
     text-align: justify;
     color: ;
+}
+hr{
+    width: 60%;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
 }
