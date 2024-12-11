@@ -52,3 +52,60 @@ header h1{
     text-shadow: 3px 3px black;
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.metro{
+    background-image: url(../képek/bkv/bkk-metro-symbol.png);
+    list-style-type: none;
+    padding-left: 25px;
+    background-repeat: no-repeat;
+    background-position: left center;
+  }
+  .busz{
+    background-image: url(../képek/bkv/bkk-bus-symbol.png);
+    list-style-type: none;
+    padding-left: 25px;
+    background-repeat: no-repeat;
+    background-position: left center;
+  }
+  .villamos{
+    background-image: url(../képek/bkv/bkk-tram-symbol.png);
+    list-style-type: none;
+    padding-left: 25px;
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+#lab_budapest{
+    text-align: center;
+}
+
