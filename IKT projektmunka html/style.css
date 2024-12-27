@@ -52,3 +52,19 @@ header h1{
     text-shadow: 3px 3px black;
 
 }
+
+#pragaheader{
+    background-image: url('../képek/praga-es-pozsony-adventi-csillogasban-nagy.jpg');
+    background-position: center;
+    background-size: cover;
+    padding: 100px 0;
+}
+
+#praganavbar{
+    background-color: rgba(255, 255, 255, 0.7);
+   
+    top: 0;
+    left: 0;
+    right: 0;
+    position: relative;
+}
