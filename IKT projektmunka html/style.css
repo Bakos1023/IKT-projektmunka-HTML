@@ -77,3 +77,44 @@ header h1{
 footer{
     text-align: center;
 }
+#Bécs h1{
+    color: gold;
+    font-family: 'Great Vibes', cursive;
+    font-size: 5rem;
+    text-align: center;
+    position: relative;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    text-shadow: 3px 3px black; 
+}
+#háttér{
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color:  rgba(159, 189, 214, 0.5);
+    font-family: 'Snowburst One', cursive;
+}
+.top_kep{    
+    position: relative;
+    top: 50%;
+    width: 70%;
+    left: 15%;
+}
+#lab_becs{
+    text-align: center;
+}
+.carousel-item img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.carousel-inner{
+    text-align: center;
+}
+.carousel-control-prev-icon{
+    background-color: black;
+}
+.carousel-control-next-icon{
+    background-color: black;
+}
