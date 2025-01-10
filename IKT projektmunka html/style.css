@@ -6,10 +6,9 @@ header img{
       
 }
 .navbar{
-    background-color: rgba(219, 245, 163, 0.5);
-    transform: translateX(center);
+    background-color: rgb(160, 220, 238);
     
-}
+    }
 body{
     width: 100%;
     margin: auto;
@@ -63,7 +62,7 @@ header h1{
 }
 
 #pragaheader{
-    background-image: url('../képek/praga-es-pozsony-adventi-csillogasban-nagy\ másolata.jpg');
+    background-image: url('../képek/praga-es-pozsony-adventi-csillogasban-nagy\_másolata.jpg');
     background-position: center;
     background-size: cover;
     padding: 100px 0;
@@ -82,7 +81,7 @@ header h1{
     z-index: 1000;
 }
 footer{
-    text-align: left;
+    text-align: center;
 }
 #Bécs h1{
     color: gold;
@@ -146,4 +145,8 @@ footer{
 .villamos{
     background-image: url(../képek/bkv/bkk-tram-symbol.png);
     background-repeat: no-repeat;
+}
+main{
+    width: 90%;
+    margin: auto;
 }
